@@ -1,0 +1,4 @@
+﻿  windows.c
+e:\0110c++\sendtostudent\day9_mfc1\code\windows\windows\windows.c(29): warning C4133: “函数”: 从“char [1024]”到“LPWSTR”的类型不兼容
+e:\0110c++\sendtostudent\day9_mfc1\code\windows\windows\windows.c(31): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+  windows.vcxproj -> E:\0110C++\sendToStudent\Day9_MFC1\Code\windows\Debug\windows.exe
